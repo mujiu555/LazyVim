@@ -1,5 +1,16 @@
 # Changelog
 
+## [16.0.0](https://github.com/LazyVim/LazyVim/compare/v15.15.0...v16.0.0) (2026-04-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* **refactoring:** conform to upstream breaking changes on 2.0 branch ([#7124](https://github.com/LazyVim/LazyVim/issues/7124))
+
+### Bug Fixes
+
+* **refactoring:** conform to upstream breaking changes on 2.0 branch ([#7124](https://github.com/LazyVim/LazyVim/issues/7124)) ([d926923](https://github.com/LazyVim/LazyVim/commit/d92692309c41581e1f839033fbccd745be732c7e))
+
 ## [15.15.0](https://github.com/LazyVim/LazyVim/compare/v15.14.0...v15.15.0) (2026-04-02)
 
 
