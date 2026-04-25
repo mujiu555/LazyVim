@@ -197,7 +197,6 @@ function M.setup(opts)
       LazyVim.format.setup()
       LazyVim.news.setup()
       LazyVim.root.setup()
-      LazyVim.terminal.setup()
 
       vim.api.nvim_create_user_command("LazyExtras", function()
         LazyVim.extras.show()
